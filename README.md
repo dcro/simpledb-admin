@@ -1,7 +1,7 @@
 simpledb-admin
 ==============
 
-An simple administration script that allows users to view/edit/remove the data stored in Amazon SimpleDB.
+A simple administration script that allows users to view/edit/remove the data stored in Amazon SimpleDB.
 
 The script uses the [PHP AWS SDK v1](https://github.com/amazonwebservices/aws-sdk-for-php). You'll need to make sure you have it installed and available in the PHP include path.
 
